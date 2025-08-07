@@ -1,0 +1,220 @@
+[
+  {
+    "id": 1,
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "What is the capital of France?",
+        "answers": [
+          "Paris",
+          "London",
+          "Rome",
+          "Berlin"
+        ],
+        "correct_answer": "Paris"
+      },
+      {
+        "type": "true_false",
+        "question": "The sky is blue.",
+        "answers": [
+          "True",
+          "False"
+        ],
+        "correct_answer": "True"
+      },
+      {
+        "type": "single_choice",
+        "question": "What is 2 + 2?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "correct_answer": "4"
+      },
+      {
+        "type": "single_choice",
+        "question": "Which planet is known as the Red Planet?",
+        "answers": [
+          "Venus",
+          "Mars",
+          "Jupiter",
+          "Saturn"
+        ],
+        "correct_answer": "Mars"
+      },
+      {
+        "type": "true_false",
+        "question": "Water freezes at 0 degrees Celsius.",
+        "answers": [
+          "True",
+          "False"
+        ],
+        "correct_answer": "True"
+      },
+      {
+        "type": "single_choice",
+        "question": "What color do you get when you mix red and white?",
+        "answers": [
+          "Pink",
+          "Purple",
+          "Orange",
+          "Brown"
+        ],
+        "correct_answer": "Pink"
+      },
+      {
+        "type": "single_choice",
+        "question": "Which ocean is the largest?",
+        "answers": [
+          "Atlantic",
+          "Indian",
+          "Pacific",
+          "Arctic"
+        ],
+        "correct_answer": "Pacific"
+      },
+      {
+        "type": "true_false",
+        "question": "Elephants are the largest land animals.",
+        "answers": [
+          "True",
+          "False"
+        ],
+        "correct_answer": "True"
+      },
+      {
+        "type": "single_choice",
+        "question": "How many days are there in a leap year?",
+        "answers": [
+          "365",
+          "366",
+          "364",
+          "367"
+        ],
+        "correct_answer": "366"
+      },
+      {
+        "type": "single_choice",
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "answers": [
+          "Oxygen",
+          "Nitrogen",
+          "Carbon Dioxide",
+          "Hydrogen"
+        ],
+        "correct_answer": "Carbon Dioxide"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "questions": [
+      {
+        "type": "single_choice",
+        "question": "What does HTTP stand for?",
+        "answers": [
+          "HyperText Transfer Protocol",
+          "HighText Transfer Protocol",
+          "HyperTransfer Text Protocol",
+          "High Transfer Text Protocol"
+        ],
+        "correct_answer": "HyperText Transfer Protocol"
+      },
+      {
+        "type": "true_false",
+        "question": "Python is a statically typed language.",
+        "answers": [
+          "True",
+          "False"
+        ],
+        "correct_answer": "False"
+      },
+      {
+        "type": "single_choice",
+        "question": "Which keyword is used to create a function in Python?",
+        "answers": [
+          "func",
+          "define",
+          "def",
+          "function"
+        ],
+        "correct_answer": "def"
+      },
+      {
+        "type": "single_choice",
+        "question": "Which HTML tag is used to create a hyperlink?",
+        "answers": [
+          "<a>",
+          "<link>",
+          "<href>",
+          "<hyper>"
+        ],
+        "correct_answer": "<a>"
+      },
+      {
+        "type": "true_false",
+        "question": "CSS stands for Cascading Style Sheets.",
+        "answers": [
+          "True",
+          "False"
+        ],
+        "correct_answer": "True"
+      },
+      {
+        "type": "single_choice",
+        "question": "Which company developed the React library?",
+        "answers": [
+          "Google",
+          "Facebook",
+          "Microsoft",
+          "Amazon"
+        ],
+        "correct_answer": "Facebook"
+      },
+      {
+        "type": "single_choice",
+        "question": "In programming, what does 'loop' mean?",
+        "answers": [
+          "A sequence of instructions that repeats",
+          "An error in code",
+          "A variable name",
+          "A function that runs once"
+        ],
+        "correct_answer": "A sequence of instructions that repeats"
+      },
+      {
+        "type": "true_false",
+        "question": "Git is a version control system.",
+        "answers": [
+          "True",
+          "False"
+        ],
+        "correct_answer": "True"
+      },
+      {
+        "type": "single_choice",
+        "question": "What does API stand for?",
+        "answers": [
+          "Application Programming Interface",
+          "Advanced Program Integration",
+          "Applied Protocol Interface",
+          "Automated Process Interaction"
+        ],
+        "correct_answer": "Application Programming Interface"
+      },
+      {
+        "type": "single_choice",
+        "question": "Which file extension is used for Python files?",
+        "answers": [
+          ".js",
+          ".py",
+          ".java",
+          ".html"
+        ],
+        "correct_answer": ".py"
+      }
+    ]
+  }
+]
